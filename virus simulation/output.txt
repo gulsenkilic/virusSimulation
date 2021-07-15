@@ -1,0 +1,4 @@
+Normal: 0
+Infected: 0
+Dead: 0
+Recovered: 0
